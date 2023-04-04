@@ -1,7 +1,9 @@
 # RSM
 
 git clone https://github.com/RRSSMM12/RSM
+
 cd RSM
+
 python RSM.py
 
 
