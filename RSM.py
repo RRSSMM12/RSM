@@ -1,2 +1,2 @@
-import RSM12
-RSM12.menu()
+import rsm12
+rsm12.menu()
